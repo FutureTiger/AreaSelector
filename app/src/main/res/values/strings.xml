@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyAreaSelector</string>
+    <string name="ok">确定</string>
+    <string name="select_area">选择地区</string>
+</resources>
